@@ -1,5 +1,5 @@
-name: netflix_anaysis
-channles:
+name: netflix_analysis
+channels:
   - conda-forge
   - defaults
 dependencies:
