@@ -1,0 +1,12 @@
+name: netflix_anaysis
+channles:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
